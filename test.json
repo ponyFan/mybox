@@ -91,6 +91,10 @@
         {
             "url": "https://www.wya6.cn/tv/yc.json",
             "name": "🚀21-无意线路"
+        },
+        {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ponyFan/mybox/main/19.json",
+            "name": "19jin"
         }
     ]
 }
