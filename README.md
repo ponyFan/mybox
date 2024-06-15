@@ -1,4 +1,4 @@
 # mybox
 
-https://gitlab.com/tomfan1/mybox/-/raw/main/test.json
+https://ghproxy.net/https://raw.githubusercontent.com/ponyFan/mybox/main/test.json
 https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json
