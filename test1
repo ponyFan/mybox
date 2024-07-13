@@ -1,1 +1,7 @@
-
+{
+    "urls": [
+	    {"url":"https://ghproxy.com/https://raw.githubusercontent.com/ponyFan/mybox/main/zy.json","name":"zy"},
+      {"url":"https://ghproxy.com/https://raw.githubusercontent.com/ponyFan/mybox/main/apple.json","name":"apple"},
+      {"url":"https://ghproxy.com/https://raw.githubusercontent.com/ponyFan/mybox/main/ali.json","name":"ali"}
+    ]
+}
